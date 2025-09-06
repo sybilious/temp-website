@@ -1,0 +1,10 @@
+{
+  "name": "agentic-utopia",
+  "version": "1.0.0",
+  "description": "Satirical AI agent product website for GitHub Pages",
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  },
+  "author": "",
+  "license": "MIT"
+}
