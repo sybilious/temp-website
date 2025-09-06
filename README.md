@@ -5,7 +5,7 @@ A mock AI agent product website packed with exaggerated marketing claims, questi
 ## Pages
 
 - `index.html` – Landing page with hero messaging and testimonials.
-- `features.html` – Feature list that sounds impressive if you don't look closely.
+- `features.html` – Feature list that sounds impressive if you don't look closely, now with a chart exposing the gap between marketing and reality.
 - `pricing.html` – Pricing plans priced for comedy.
 - `blog/` – Contains satirical posts about product milestones.
 - `updates.html` – Changelog that documents purely cosmetic changes.
